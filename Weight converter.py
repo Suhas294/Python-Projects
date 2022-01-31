@@ -7,7 +7,7 @@ ch = input("for operations like (K)g,(L)bs: ")
 
 result = 0
 
-if ch == '(K)g':
+if ch == 'L':
     result = Weight*2.20462
     print(result,"is the weight in (L)bs")
 
